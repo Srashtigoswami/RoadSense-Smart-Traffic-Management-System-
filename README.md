@@ -592,7 +592,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- **Developer**: Piyush Ghoshi
+- **Developer**: Srashti Goswami, Piyush Ghoshi
 - **Role**: Full Stack Developer
 
 ## 🙏 Acknowledgments
@@ -631,7 +631,7 @@ For support, email support@roadsense.com or open an issue on GitHub.
 ---
 
 <div align="center">
-Made with ❤️ by Piyush Ghoshi
+Made by Srashti & Piyush !
 </div>
 
 **Status:** ✅ Production Ready | **Version:** 1.0.0 | **Date:** November 2025
